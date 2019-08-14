@@ -1,5 +1,7 @@
 # PSDownloadFilesButton
-Simple page button to download all files (chatter files...not attachments) associated to a record. If multiple files exist, a zip file is downloaded.
+Simple page button to download all files (chatter files...not attachments) associated to a record. If multiple files exist, a zip file is downloaded else a single file is downloaded with configured filename. This component utilizes this undocumented feature as detailed in [this article](http://cropredysfdc.com/2016/03/16/download-multiple-contentversion-files-as-zip/). The limitations/warnings using this feature are:
+* Only works for "chatter files" attached to current record (not attachments)
+* Is undocumented feature so could break at any moment...verify before demos.
 
 Here is the component in action and checkout [this video](https://github.com/thedges/PSDownloadFilesButton/blob/master/PSDownloadFilesButton.mp4) 
 
