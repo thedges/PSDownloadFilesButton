@@ -1,0 +1,14 @@
+.slds-card {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.slds-card p {
+    padding: 15px;
+    text-align: center;
+    font-size: 1rem;
+    color: #175195;
+    cursor: pointer;
+}
