@@ -7,8 +7,6 @@ Here is the component in action and checkout [this video](https://github.com/the
 
 ![alt text](https://github.com/thedges/PSDownloadFilesButton/blob/master/PSDownloadFilesButton.gif "Sample Image")
 
-This version provides the following extra features:
-
 Simple configuration parameters for the component:
 
 | Parameter | Description |
