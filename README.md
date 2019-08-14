@@ -5,7 +5,7 @@ Simple configuration parameters for the component:
 
 | Parameter | Description |
 | --------- | ----------- |
-| Label | The lable for the button |
+| Label | The text label for the button |
 | RecordId | For community only, provide a value of {!recordId} for this field so current recordId is passed to component |
 
 <a href="https://githubsfdeploy.herokuapp.com">
